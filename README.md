@@ -4,12 +4,6 @@ Portafolio web personal desarrollado como parte del Taller de Desarrollo de Apps
 
 ---
 
-## 📸 Vista previa
-
-> *Captura del sitio – agregar imagen después del despliegue.*
-
----
-
 ## ✨ Características
 
 - **HTML semántico** – uso de `<header>`, `<nav>`, `<main>`, `<section>`, `<article>` y `<footer>`.
