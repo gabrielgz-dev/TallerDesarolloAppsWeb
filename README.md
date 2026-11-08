@@ -88,4 +88,4 @@ taller1/
 
 ## 👨‍💻 Autor
 
-**Gabriel González** · [@gabrielgz-dev](https://github.com/gabrielgz-dev)
+**Gabriel Garcia** · [@gabrielgz-dev](https://github.com/gabrielgz-dev)
