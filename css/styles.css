@@ -74,6 +74,13 @@
   --shadow-lg: 0 8px 32px rgba(0,0,0,0.12);
 }
 
+/* ────────────────────────────────────────────────────
+   MODO OSCURO
+   – automático via prefers-color-scheme
+   – manual via atributo data-theme en <html>
+   Los valores de las variables se sobreescriben
+   sin duplicar ninguna regla de layout o componente.
+   ──────────────────────────────────────────────────── */
 /* Modo oscuro – automático (prefers-color-scheme) */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
