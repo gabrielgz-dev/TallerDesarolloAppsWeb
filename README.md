@@ -1,4 +1,4 @@
-# Portafolio Personal – Gabriel González
+# Portafolio Personal – Gabriel Garcia
 
 Portafolio web personal desarrollado como parte del Taller de Desarrollo de Apps Web. Presenta información sobre mí, mis habilidades, proyectos destacados y un formulario de contacto funcional.
 
